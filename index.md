@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Jual Gelang Kokka Asli
 
-You can use the [editor on GitHub](https://github.com/iamendro/endro/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Yang biasa Umroh / Haji pasti sudah tak asing lagi dengan gelang/tasbih kokka, sebab produk kokka biasa dijadikan oleh-oleh dari Mekah, toko kami HANYA menjual Kokka ASLI dan sudah terjual sekitar puluhan ribu produk kokka. Toko kami menjamin keaslian bahan baku Kokka import dari luar negeri yang sebagian besar dari Turki (bukan imitasi) dengan garansi uang kembali 3x lipat. Gelang Kokka ini dibuat dengan biji pilihan terbaik (kualitas premium) sehingga mempunyai kualitas yang lebih tinggi dibanding gelang kokka biasa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## SPESIFIKASI : 
+- Gelang Kaukah Model Sekat Telur Coklat 
+- Ukuran lingkar gelang 15-16cm 
+- Gelang dapat diperbesar/tarik ulur hingga 20cm 
+- Diameter butir 5-6mm 
 
-### Markdown
+## KELENGKAPAN : 
+✅ Gelang Kaukah Original 
+✅ Kaleng Mika 
+✅ Brosur 
+✅ Dus/Box 
+✅ Sertifikat berhologram 
+✅ Stiker 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CUSTOM :
+- Penyekat magnet, baut ulir, tali karet elastis
+- Ucapan untuk kado/hadiah (free kertas kado)
+- Oleh-oleh haji/umroh
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## PROGRAM DONASI : 
+Asiknya lagi setiap pembelian produk kokka kami, Anda turut berdonasi 5000 untuk anak yatim/duafa, alhamdulillah sampai bulan ini total donasi yang telah disumbangkan lebih dari 60 Juta dan terus kami update setiap bulan
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## APA ITU KOKKA?
+Kokka adalah bahan baku pembuatan gelang kokka yang biasa untuk oleh-oleh haji. Biji nya diambil dari pohon Attalea Funifera, sejenis pohon palm yang tumbuh di negara Timur Tengah seperti Turki, Mesir, Iran dll. Akan tetapi di pasaran terdapat juga produk kokka yang menyerupai/mirip gelang kokka yang terbuat dari buah aren atau kolang kaling, buah palm yang lainnya, buah salak, tulang sapi, dll. Produk Kaukah asli akan tenggelam jika dimasukan ke dalam air dan memiliki tanda retak dan berserat teksturnya. Dalam proses produksinya memiliki aroma yang khas.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## KENAPA HARGA MAHAL?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Gelang Kokka Premim berbeda dengan kokka biasa, Kokka Premium dibuat dengan biji pilihan terbaik (kualitas premium) sehingga mempunyai kualitas yang lebih tinggi dibanding gelang kokka biasa dan tidak sekedar menjual kokka biasa dengan harga murah. Sebagai bentuk komitmen kami untuk menjaga kualitas gelang, kami memberikan sertifikat yang dikeluarkan toko kami sebagai garansi keaslian dan kualitas dan kami menggaransi uang kembali 3x lipat jika gelang kami tidak asli.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamendro/endro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
